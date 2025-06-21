@@ -23,7 +23,7 @@ A simple web-based weather application that fetches real-time weather data from 
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/<YOUR_USERNAME>/weather-app.git
+   git clone https://github.com/your-username/weather-app.git
    cd weather-app
    ```
 
@@ -36,14 +36,6 @@ A simple web-based weather application that fetches real-time weather data from 
 3. View the temperature, weather description, and local time.
 4. Background colors animate and change based on weather type.
 
-## Project Structure
-
-```
-weather-app/
-├── index.html    # Main HTML file with structure and script reference
-├── style.css     # Styles for layout, animation, and responsive design
-└── script.js     # JavaScript logic for fetching weather and updating UI
-```
 
 ## Customization
 
@@ -51,4 +43,4 @@ weather-app/
 * **Gradient Colors**: Modify the CSS gradients in `style.css` or the JS logic to suit different color schemes.
 
 ## Author
-Made by [banein-yusuf]
+Made by banein-yusuf
