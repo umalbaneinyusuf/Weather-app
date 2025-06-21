@@ -23,7 +23,7 @@ A simple web-based weather application that fetches real-time weather data from 
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/banein-yusuf/weather-app.git
    cd weather-app
    ```
 
